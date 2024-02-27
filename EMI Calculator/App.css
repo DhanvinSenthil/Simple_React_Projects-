@@ -1,0 +1,37 @@
+
+
+.nav{
+  background-color: blue;
+  color: azure;
+}
+h1{
+  color: rgb(246, 5, 5);
+
+}
+.Homeloan{
+  background-color: aquamarine;
+}
+.Home{
+  padding-top: 0.5cm;
+}
+.menu{
+  width: 100%;
+  min-height: 2cm;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: aqua;
+  
+}
+.Cemi{
+  background-color: rgb(239, 62, 189);
+}
+.Pemi{
+  background-color: lightcoral;
+}
+.h,.c,.p,.h1{
+background-color: #090909;
+color: aliceblue;
+font-size: 24px;
+}
+
