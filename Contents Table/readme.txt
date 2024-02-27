@@ -1,1 +1,1 @@
-This developed for data mapping usin JSON REST Methods with content id.
+This id developed for data mapping using JSON REST Methods with content id.
