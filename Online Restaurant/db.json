@@ -1,0 +1,53 @@
+{
+    "users":
+              [
+                {
+                    "id": "1",
+                    "name": "Subway",
+                    "res": "Margherita pizza"
+              
+                },
+                {
+                    "id": "2",
+                    "name": "Anandha Bhavan",
+                    "res": "Idly & Vada"
+                    
+                },
+                {
+                    "id": "3",
+                    "name": "Fazari",
+                    "res": "Fish Fry"
+  
+                },
+                {
+                  "id": "4",
+                  "name": "Dominos",
+                  "res": "Veg Burger"
+                  
+              },
+              {
+                "id": "5",
+                "name": "Alrif Restaurant",
+                "res": "Mutton biriyani"
+                
+            },
+            {
+              "id": "6",
+              "name": "WOW - Momos",
+              "res": "Non-Veg pan momos"
+              
+          },
+          {
+            "id": "7",
+            "name": "Food Network",
+            "res": "Sandwich"
+            
+        },
+        {
+          "id": "8",
+          "name": "Food Feist",
+          "res": "Tandoori"
+          
+      }
+              ]
+            }
